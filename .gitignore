@@ -1,4 +1,6 @@
-
 db-password.txt
 .env
 *.log
+api-key.txt
+read-key.txt
+write-key.txt
