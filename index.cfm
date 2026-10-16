@@ -633,8 +633,7 @@
                 <div class="stat-value" style="font-size:22px;">Online</div>
                 <div class="stat-foot">Employee Hub workspace</div>
             </div>
-        </section>
-
+        </section>W
         <!-- Show a message after a successful deletion -->
         <cfif structKeyExists(url, "deleted") AND url.deleted EQ "1">
             <div class="flash-success">
